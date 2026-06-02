@@ -1,0 +1,6 @@
+{
+  "name": "White Tail Solutions",
+  "description": "A comprehensive SaaS platform for sober living operators offering state licensing guides, resident management, document e-signatures, compliance checklists, AI assistant, and consulting bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
